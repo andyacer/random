@@ -1,8 +1,8 @@
 # Random
 Random notes
-
-
-
+  
+  
+  
 ## List of MS 08-067 exploits I've come across:
 
 https://www.exploit-db.com/exploits/40279/  
